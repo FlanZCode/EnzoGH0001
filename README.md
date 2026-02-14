@@ -1,23 +1,35 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
-<h3 align="center">A passionate developer from Belgium</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Developer+from+Belgium;Systems+Engineering+Student;Creator+of+Synapse" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/TON_LIEN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:enzo.hautenauven09@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=FlanZCode&data=followers,repositories,stars,commits&theme=darkmode)]()
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlanZCode&theme=dark&hide_border=true&type=png)](#)
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,cpp,linux,debian,docker,git,github" />
+</p>
 
 ---
 
-- 🔭 I’m currently working on **[Synapse](https://github.com/FlanZCode/synapse)**
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FlanZCode&theme=dark&hide_border=true" alt="Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlanZCode&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="150" />
+</p>
 
-- 🌱 I’m currently learning **Systems Engineering**
+---
 
-- 👯 I’m looking collaborator for **[Synapse](https://github.com/FlanZCode/synapse)**
-
-- 📫 How to reach me **enzo.hautenauven09@hotmail.com**
-
-- ⚡ Fun fact **I started developing at 9 years old!**
+### 🚀 Projects & Focus
+- 🔭 **Working on:** [Synapse](https://github.com/FlanZCode/synapse) - *A brief description of what it is.*
+- 🌱 **Learning:** Systems Engineering & Low-level optimization.
+- 👯 **Collaborations:** Open for contributions on Synapse!
+- ⚡ **Fun Fact:** I wrote my first line of code at 9 years old.
 
 <p align="center">
  <img alt="github-snake" src="asset/EnzoSnake.svg" />
